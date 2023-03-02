@@ -1,7 +1,7 @@
 {
 	"name": "my-app",
 	"version": "0.1.0",
-	"homepage": "https://github.com/VladBasalyha/todo_test",
+	"homepage": "https:///VladBasalyha.github.io/todo_test",
 	"private": false,
 	"dependencies": {
 		"@emotion/react": "^11.10.6",
