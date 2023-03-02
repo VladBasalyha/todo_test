@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/VladBasalyha/todo_test.git/static/css/main.6d239580.css",
-    "main.js": "/VladBasalyha/todo_test.git/static/js/main.d0e33906.js",
-    "static/js/787.28cb0dcd.chunk.js": "/VladBasalyha/todo_test.git/static/js/787.28cb0dcd.chunk.js",
-    "index.html": "/VladBasalyha/todo_test.git/index.html",
-    "main.6d239580.css.map": "/VladBasalyha/todo_test.git/static/css/main.6d239580.css.map",
-    "main.d0e33906.js.map": "/VladBasalyha/todo_test.git/static/js/main.d0e33906.js.map",
-    "787.28cb0dcd.chunk.js.map": "/VladBasalyha/todo_test.git/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/todo_test/static/css/main.6d239580.css",
+    "main.js": "/todo_test/static/js/main.b6a7f103.js",
+    "static/js/787.28cb0dcd.chunk.js": "/todo_test/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/todo_test/index.html",
+    "main.6d239580.css.map": "/todo_test/static/css/main.6d239580.css.map",
+    "main.b6a7f103.js.map": "/todo_test/static/js/main.b6a7f103.js.map",
+    "787.28cb0dcd.chunk.js.map": "/todo_test/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6d239580.css",
-    "static/js/main.d0e33906.js"
+    "static/js/main.b6a7f103.js"
   ]
 }
