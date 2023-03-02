@@ -29,7 +29,7 @@ export const FormTodo = ({ addingTodo }) => {
 	const onSubmitForm = (e) => {
 		e.preventDefault();
 		if (title === "") {
-			return setErrorOnEmptyField("invalid");
+			setErrorOnEmptyField("invalid");
 		}
 		if (description === "") {
 			setErrorOnEmptyFieldDescription("invalid");
